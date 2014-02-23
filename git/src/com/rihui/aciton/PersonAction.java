@@ -5,6 +5,7 @@ public class PersonAction {
 	private String pname;
 	private Integer age;
 	private String aaabbb;
+	private String xxxyyy;
 	
 	public String getPname() {
 		return pname;
