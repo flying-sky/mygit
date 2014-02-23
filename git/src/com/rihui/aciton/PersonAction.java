@@ -4,6 +4,7 @@ public class PersonAction {
 	
 	private String pname;
 	private Integer age;
+	private String aaabbb;
 	
 	public String getPname() {
 		return pname;
