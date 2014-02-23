@@ -3,17 +3,9 @@ package com.rihui.aciton;
 public class PersonAction {
 	
 	private String pname;
-	private Double price;
+	private String sex;
 	private Integer age;
 	
-	
-	
-	public Double getPrice() {
-		return price;
-	}
-	public void setPrice(Double price) {
-		this.price = price;
-	}
 	public String getPname() {
 		return pname;
 	}
