@@ -1,11 +1,8 @@
 package com.rihui.aciton;
 
 public class PersonAction {
-	
 	private String pname;
-	private String sex;
 	private Integer age;
-	
 	public String getPname() {
 		return pname;
 	}
